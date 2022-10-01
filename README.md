@@ -8,16 +8,22 @@ The initial database version is created by the research team supervised by Prof.
 
 Thank you for considering contributing to the database. Data contributors must follow the steps detailed below and must ensure that their inputs do not infringe any intellectual property or copyright agreements.
 
+Database update(s):
+On October 1, 2022, 40 new buildings from Arceo et al. (2022) were added into the database. The buildings comprised of 20 single-family dwellings in Perth, Australia and 20 single-family dwellings in Luzon, Philippines.
+
 References
 
-i. CSI and CSC. (2010). UniFormat - A Uniform Classification of Construction Systems and Assemblies. Constructions Specification Institute (CIS) and Construction Specifications Canada (CSC).
+i. Arceo, A., MacLean, H. L., & Saxe, S. (2022). Material intensity in single-family dwellings: variability between locations, functional unit and drivers of material use in Toronto, Perth, and Luzon. Resources, Conservation and Recycling, 188(April 2022), 106683. https://doi.org/10.1016/j.resconrec.2022.106683
 
 
-ii. CSI and CSC. (2016). MasterFormat Numbers & Titles (pp. 1–186). pp. 1–186. Constructions Specification Institute (CIS) and Construction Specifications Canada (CSC).
+ii. CSI and CSC. (2010). UniFormat - A Uniform Classification of Construction Systems and Assemblies. Constructions Specification Institute (CIS) and Construction Specifications Canada (CSC).
 
 
-iii. Guven, G., Arceo, A., Bennett, A., Tham, M., Olanrewaju, B., McGrail, M., Isin, K., Olson, A. W., and Saxe, S. (2022). “A construction classification system database for understanding resource use in building construction.” Scientific Data, Springer US, 9(1), 42.
+iii. CSI and CSC. (2016). MasterFormat Numbers & Titles (pp. 1–186). pp. 1–186. Constructions Specification Institute (CIS) and Construction Specifications Canada (CSC).
 
 
-iv. Heeren, N., & Fishman, T. (2019). A database seed for a community-driven material intensity research platform. Scientific Data, 1–10. https://doi.org/10.1038/s41597-019-0021-x
+iv. Guven, G., Arceo, A., Bennett, A., Tham, M., Olanrewaju, B., McGrail, M., Isin, K., Olson, A. W., and Saxe, S. (2022). “A construction classification system database for understanding resource use in building construction.” Scientific Data, Springer US, 9(1), 42.
+
+
+v. Heeren, N., & Fishman, T. (2019). A database seed for a community-driven material intensity research platform. Scientific Data, 1–10. https://doi.org/10.1038/s41597-019-0021-x
 
